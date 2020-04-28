@@ -18,6 +18,8 @@ sudo apt install python3-pip
 pip install cryptography
 ```
 
+NOTE: It's necessary you have a private and public key to use the scrypt.
+
 ## Run the script
 ```
 python3 RSA_encryptor_decryptor.py 
