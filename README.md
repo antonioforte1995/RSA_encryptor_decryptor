@@ -20,5 +20,5 @@ pip install cryptography
 
 ## Run the script
 ```
-sudo python3 RSA_encryptor_decryptor.py 
+python3 RSA_encryptor_decryptor.py 
 ```
